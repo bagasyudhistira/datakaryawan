@@ -1,0 +1,11 @@
+[
+{"type":"header","version":"5.1.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"datakaryawan"},
+{"type":"table","name":"tbdatakaryawan","database":"datakaryawan","data":
+[
+{"nama":"Ayu Putri","posisi":"CEO","id_karyawan":"1"},
+{"nama":"Sinta Dewi","posisi":"General Manager","id_karyawan":"2"},
+{"nama":"Joshua MM","posisi":"Staff","id_karyawan":"3"}
+]
+}
+]
